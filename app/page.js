@@ -4,12 +4,11 @@ export default function Home() {
   let b = 10;
   return (
     <div>
-      <p><Link href= "week_1"> go to week 1</Link></p>
+      <p><Link href= "week_1"> Week-1</Link></p>
       <p><Link href= "/week-2">week-2</Link></p>
     
-      <p><Link href= "/week-3">Go to week3</Link></p>
-
-      <p>The adddition is {a+b}</p>
+      <p><Link href= "/week-3">week-3</Link></p>
+      <p><Link href= "/week-4">week-4</Link></p>
     </div>
   );
 }
