@@ -29,7 +29,7 @@ export default function Page() {
             Logout
           </button>
           <div>
-            <Link href="/week-9/shopping-list" className="p-2 bg-green-500 rounded text-white">
+            <Link href="/week-9/shoppping-list" className="p-2 bg-green-500 rounded text-white">
               Go to Shopping List
             </Link>
           </div>
